@@ -10,7 +10,7 @@ Then create a graph database into it by giving the cyher queries.
 
 Connect the neo4j Driver with the python 
 
-Now open the jupyter notebook and select a created nthlevelnodes file and execute cells 
+Now open the jupyter notebook and select a created nthlevelnodes file (nthlevelnodes.ipynb) and execute cells 
 
 ## Steps to execute
 
