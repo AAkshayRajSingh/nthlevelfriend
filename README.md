@@ -1,9 +1,14 @@
 # nthlevelfriend
 
+In this project we are working on knowing the nth level friends or the connections in a network using a breadth first search and the Ne04j.
+
+
 ## Setup
 First Install neo4j into your system
 https://neo4j.com/
 Then create a graph database into it by giving the cyher queries.
+
+Connect the neo4j Driver with the python 
 
 Now open the jupyter notebook and select a created nthlevelnodes file and execute cells 
 
